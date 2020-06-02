@@ -10,7 +10,6 @@ namespace GitVal__Github__program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("World!");
-        }
+			Console.WriteLine("Hello");            Console.WriteLine("World!");        }
     }
 }
